@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Dhiogo Antonio</h1>
 
-<!--
-**Dhiogo-Antonio/Dhiogo-Antonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend;" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## About Me
+
+I am a backend developer focused on building structured, efficient, and scalable web systems. I have practical experience with PHP, MySQL, HTML, CSS, and JavaScript, and I am continuously improving my technical skills to reach a professional level.
+
+- Focus on backend development
+- Experience with PHP, MySQL, and MVC pattern
+- Constant learner in software development
+- Goal: become a professional developer and work on real-world systems
+
+---
+
+## Tech Stack
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,github,vscode" /> </p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=Dhiogo-Antonio&theme=tokyonight"/>
+</p>
+
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiogo-Antonio&theme=tokyo-night"/>
+</p>
+
